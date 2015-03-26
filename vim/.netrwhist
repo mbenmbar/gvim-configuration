@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/etc/apt/apt.conf.d'
+let g:netrw_dirhist_2='/home/moussa/Desktop'
+let g:netrw_dirhist_3='/home/moussa/Desktop/trace_debug'
+let g:netrw_dirhist_4='/home/moussa/Desktop/trace_debug/documentations'
+let g:netrw_dirhist_5='/home/moussa/Desktop/Simics_files/bug_release1/case2/case2.txt'
+let g:netrw_dirhist_6='/home/moussa/broxton_master/device/intel/mixins/groups/pstore/ram_dummy'
+let g:netrw_dirhist_7='/home/moussa/.vim/plugin'
+let g:netrw_dirhist_8='/home/moussa/NPK_NEW_source/linux-npk-linux_v2'
